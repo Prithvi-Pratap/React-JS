@@ -1,4 +1,4 @@
-function Cards({image,title,price}){
+function Cards({image,title,price="$59.00"}){
     
     return (
         <>
