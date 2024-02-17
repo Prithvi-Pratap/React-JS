@@ -19,17 +19,18 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd your-password-generator
+   ```bash
+   cd 06-passwordGenerator
 
 3. Install dependencies:
 
-  ```bash
-  npm install
+   ```bash
+   npm install
+  
 
 4. Run the development server:
 
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
 
-Open your browser and go to the link mentioned in the terminal
+5. Open the browser and go to the mentioned server link ( e.g. :http://127.0.0.1:5173/).
