@@ -34,3 +34,5 @@ To run this project locally, follow these steps:
    npm run dev
 
 5. Open the browser and go to the mentioned server link ( e.g. :http://127.0.0.1:5173/).
+
+#Deployed:https://randompassword-react.vercel.app/
